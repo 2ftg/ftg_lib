@@ -11,6 +11,6 @@ The components and footprints created are for my personal projects and so on.
 So for example I'm not selling RTL2832U, BK4811, RT5350F or RDA1846.  
 Do your own sourcing. :D  
 
-Give me a shout if you successfully use components from this library for something.  
+Give me a shout if you successfully use components from this library in something.  
 
 OH2FTG - 2017
