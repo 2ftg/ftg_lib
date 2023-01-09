@@ -1,2 +1,3 @@
 Ismo V‰‰n‰nen aka OH2FTG aka 2FTG 2017
                                                     This file contains some notes and errata about the ftg_lib library.
+Raspi gpio header omits some additional functionality for pins.
